@@ -1,0 +1,9 @@
+"EMP_ID","FIRST_NAME","LAST_NAME","LASTFOUR_SSN","CO_MOBILE","CO_EMAIL","ACTION","ACTION_DATE","DEPT_CODE","JOB_TITLE","SUPERVISOR_ID"
+1,"Suzanne","Johnson","4523","832-127-3141","spjohns@abcco.com","CHANGE JOB TITLE",10-JAN-22,"ITHELP    ","IT Help Desk Manager",
+2,"Paulo","Panadero","3260","281-919-3374","pppanad@abcco.com","HIRE",01-AUG-19,"HR        ","Director - Onboarding",
+3,"Sally","Rogers","3260","281-919-3396","srogers@abcco.com","CHANGE JOB TITLE",28-APR-20,"HR        ","HR Analyst",2
+4,"Georgianna","Washington","3584","281-218-8122","gswashi12@abcco.com","CHANGE JOB TITLE",10-NOV-19,"ITHELP    ","Senior Systems Analyst",1
+5,"Jorge","Ibáñez","4290","832-719-2102","jpibane33@abcco.com","HIRE",10-NOV-18,"EXEC      ","CIO",
+6,"Nancy","Pfeffercorn","8187","281-213-6702","ngpfeff01@abcco.com","HIRE",10-NOV-15,"EXEC      ","Assistant to CEO",
+21,"Reine","Fontaigne","4444","832-432-8844","rdfontai@abcco.com","HIRE",22-JUN-22,"HR        ","Recruiter",2
+24,"Rafael","Bushkavic","8903","281-454-6868","rmbushka@abcco.com","HIRE",18-MAY-22,"ITHELP    ","Systems Analyst",1

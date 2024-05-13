@@ -1,0 +1,4 @@
+"ASSET_DESC_ID","CPU_DETAILS","GRAPHICS","VOL_MEMORY","STORAGE_TYPE","STORAGE_CAPACITY","DISPLAY","BI_DISPLAY_DETAILS"
+7,"Intel Core i5-10210U 6MB Cache, 4 Core, up to 4.20 GHz","NVIDIA GeForce GTX 1650 Ti 4GB GDDR6","8GB DDR4-2666MHz, 2X4G","M.2 PCIe NVMe Solid State Drive","256GB","built-in","15.6"" FHD (1920 x 1080) InfinityEdge"
+9,"Intel Core i7-10750U 12MB Cache, 6 Core, up to 5.00 GHz","NVIDIA GeForce GTX 1650 Ti 4GB GDDR6","8GB DDR4-2933MHz, 2X4G","M.2 PCIe NVMe Solid State Drive","256GB","built-in","15.6"" FHD (1920 x 1080) InfinityEdge"
+12,"AMD Ryzen 5 Pro 6650U / 2.9GHz","","16GB LPDDR5-6400MHz","Solid State Drive M.2 2280","512GB","built-in","16"" LED (1920 x 1200) WUXGA"
